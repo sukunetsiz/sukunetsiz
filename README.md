@@ -1,5 +1,7 @@
 <div align="center">
 
+I build infrastructure for privacy focused anonymous web applications. Be free, be ungovernable.
+
 # Support My Work
 
 </div>
