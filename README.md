@@ -20,6 +20,8 @@ If you find my projects helpful, consider supporting me with a Monero (XMR) dona
 
 ## Contact Information
 
+**XMPP Contact:** `sukunetsiz@xmpp.is`
+
 **Session Contact:** `051a9c0bd47481ed45165903ad3e1c8ca27ae7a9e3c90dbbd61aa96337ea6aba27`
 
 **Signal Link:** `https://signal.me/#eu/TBPdPWJBWmx3ElMMIX0DqeZ1ykyMEOjcwK8GHgF2oNEw-0-l5pVFyKo1adqsEznA`
