@@ -12,6 +12,8 @@ If you find my projects helpful, consider supporting me with a Monero (XMR) dona
 
 **XMR Address** `89p3o8Umho9haXyAJHMwrfeeqea2UoJaZ6sknFvYVAitMFKJYTW54huh1enTQHBwdaWq5duyZ4ZsZjVcHQyiRZmfGbQMhce`
 
+**BTC Address** `bc1qu9x0jqzyr0wly0vc5vrg2trtu486qxmcla5t2m`
+
 </div>
 
 ---
